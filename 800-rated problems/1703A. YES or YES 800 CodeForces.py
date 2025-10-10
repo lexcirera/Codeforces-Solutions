@@ -1,0 +1,4 @@
+# https://codeforces.com/problemset/problem/1703/A
+
+for _ in range(int(input())):
+    print("YES" if input().lower() == "yes" else "NO")
